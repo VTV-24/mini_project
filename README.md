@@ -87,14 +87,14 @@ python run_papermill.py  # Chạy tất cả notebooks
 streamlit run streamlib_app.py
 ```
 Truy cập `http://localhost:8501` để xem kết quả phân tích.
+
 ## 🖥️ Dashboard Phân tích & Phân cụm
 
-![Dashboard Phân tích và Phân cụm](images/Dashboard Phân tích và Phân cụm.png)
+![Dashboard Phân tích và Phân cụm](images/Dashboard%20Ph%C3%A2n%20t%C3%ADch%20v%C3%A0%20Ph%C3%A2n%20c%E1%BB%A5m.png)
 
 ## 🎯 Chi tiết & Chiến lược Marketing
 
-![Chiến lược Marketing](images/Chi tiết và Ciện lược Marketing.png)
-
+![Chiến lược Marketing](images/Chi%20ti%E1%BA%BFt%20v%C3%A0%20C%E1%BA%A3n%20l%C6%B0%E1%BB%A3c%20Marketing.png)
 
 ## Kết Quả Chính
 
@@ -121,8 +121,8 @@ Antecedents → Consequents | Support | Confidence | Lift
 
 ## Tác Giả
 
-
+[Tên của bạn]
 
 ## License
 
-
+MIT License
