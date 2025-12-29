@@ -81,8 +81,8 @@ Mở file `cluster_analysis_report.md` để xem phân tích chi tiết.
 
 ## Tác giả
 
-[Your Name]
+An
 
 ## License
 
-MIT License
+None
