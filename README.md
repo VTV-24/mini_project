@@ -75,6 +75,8 @@ mini_project/
       Top 50 luật có lift cao nhất được chọn để cân bằng giữa chất lượng và số lượng.
       Trong report và dashboard, nhóm sử dụng 10 luật tiêu biểu nhất để minh họa.
      
+     ## 🖥️ Bảng top 10 luật tiêu biểu
+     ![Bảng top 10](images/top1luat.jpg)
 
 4. **Phân Cụm Khách Hàng:**
    ```bash
@@ -97,11 +99,11 @@ Truy cập `http://localhost:8501` để xem kết quả phân tích.
 
 ## 🖥️ Dashboard Phân tích & Phân cụm
 
-![Dashboard Phân tích và Phân cụm](images/Dashboard%20Ph%C3%A2n%20t%C3%ADch%20v%C3%A0%20Ph%C3%A2n%20c%E1%BB%A5m.png)
+![Dashboard Phân tích và Phân cụm](images/Dashboard.png)
 
 ## 🎯 Chi tiết & Chiến lược Marketing
 
-![Chiến lược Marketing](images/Chi%20ti%E1%BA%BFt%20v%C3%A0%20C%E1%BA%A3n%20l%C6%B0%E1%BB%A3c%20Marketing.png)
+![Chiến lược Marketing](images/ChienLuocMarketing.png)
 
 ## Kết Quả Chính
 
@@ -128,8 +130,8 @@ Antecedents → Consequents | Support | Confidence | Lift
 
 ## Tác Giả
 
-[Tên của bạn]
+
 
 ## License
 
-MIT License
+None
