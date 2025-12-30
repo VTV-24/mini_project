@@ -68,6 +68,13 @@ mini_project/
    - Khai thác luật kết hợp bằng FP-Growth
    - Tham số: min_support=0.01, min_confidence=0.2, min_lift=1.0
    - Output: `data/processed/rules_fpgrowth_filtered.csv`
+   - giải thích việc chọn luật:
+   - Nhóm sử dụng thuật toán FP-Growth do tốc độ nhanh hơn Apriori trên tập dữ liệu lớn.
+      Ngưỡng min_support = 0.02 để loại bỏ các sản phẩm quá hiếm.
+      Các luật được sắp xếp theo chỉ số lift nhằm ưu tiên các mối quan hệ có mức độ liên kết mạnh.
+      Top 50 luật có lift cao nhất được chọn để cân bằng giữa chất lượng và số lượng.
+      Trong report và dashboard, nhóm sử dụng 10 luật tiêu biểu nhất để minh họa.
+     
 
 4. **Phân Cụm Khách Hàng:**
    ```bash
